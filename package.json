@@ -1,0 +1,22 @@
+{
+  "name": "git-handbook",
+  "version": "1.0.0",
+  "description": "This is a book about git、github、gitlab and gitbook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghostwritten/git-handbook.git"
+  },
+  "author": "ghostwritten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghostwritten/git-handbook/issues"
+  },
+  "homepage": "https://github.com/Ghostwritten/git-handbook#readme",
+  "dependencies": {
+    "gitbook-plugin-summary": "^1.1.0"
+  }
+}
