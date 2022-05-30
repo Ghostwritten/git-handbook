@@ -1,5 +1,7 @@
 ----
 
+# git 免密登陆 github
+
 SSH通信协议
 GitHub版
 许多Git服务器都支持使用SSH公钥进行认证，当然也包括github。
